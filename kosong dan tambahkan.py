@@ -14,4 +14,5 @@ kosong.add(tambah_str)
 
 print(f"ini merupakan isi data set setelah ditambahkan = {kosong}")
 
+print(10*"-"+" TIPE-TIPE DATA SET "+10*"-")
 
